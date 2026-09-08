@@ -17,7 +17,7 @@
 
 **[no-universal-ranking](https://github.com/nicohernandez02/no-universal-ranking)** — LSE MSc capstone. Where the correlates of life evaluation hold, and how far they travel — CRE-Mundlak + elastic net/XGBoost validation, multiplicity correction, Oster bounds. Gallup World Poll, 168 countries, 2006–2025.
 
-**[polity-size-rd-reappraisal](https://github.com/nicohernandez02/polity-size-rd-reappraisal)** — Replication and robustness analysis of a fuzzy regression-discontinuity study (LSE).
+**[polity-size-rd-reappraisal](https://github.com/nicohernandez02/polity-size-rd-reappraisal)** — Fuzzy RD replication of Narasimhan &amp; Weaver (2024, AER) on India's gram panchayat delimitation — placebo cutoffs, bandwidth sensitivity, and a discrepancy found between the paper's write-up and its own numbers.
 
 ## 📊 Applied Projects
 
