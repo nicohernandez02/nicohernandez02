@@ -1,6 +1,6 @@
 {
  "username": "nicohernandez02",
- "fetched_at": "2026-09-07T07:46:31+00:00",
+ "fetched_at": "2026-09-08T07:40:49+00:00",
  "total": 33,
  "best_day": {
   "date": "2026-08-21",
@@ -1851,6 +1851,11 @@
   },
   {
    "date": "2026-09-07",
+   "count": 0,
+   "level": 0
+  },
+  {
+   "date": "2026-09-08",
    "count": 0,
    "level": 0
   }
