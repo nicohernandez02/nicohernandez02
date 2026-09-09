@@ -15,6 +15,8 @@
 
 **[polity-size-rd-reappraisal](https://github.com/nicohernandez02/polity-size-rd-reappraisal)** — Fuzzy RD replication of Narasimhan &amp; Weaver (2024, AER) on India's gram panchayat delimitation — placebo cutoffs, bandwidth sensitivity, and a discrepancy found between the paper's write-up and its own numbers.
 
+**[ml-validation-triangulation](https://github.com/nicohernandez02/ml-validation-triangulation)** — Monte Carlo triangulation protocol for observational panel research: shows what ML holdout validation (elastic net/XGBoost) can and cannot detect against a CRE-Mundlak anchor — catches functional-form misspecification and non-transportability, structurally blind to confounding. A negative-control extension (epidemiology) recovers the signal ML misses. Companion code for a paper under review at *Journal of Computational Social Science*.
+
 ## 📊 Applied Projects
 
 **[finbert-volatility-signals](https://github.com/nicohernandez02/finbert-volatility-signals)** — Predicting extreme stock price movements using FinBERT sentiment analysis on financial news. PySpark pipeline for 2.4M articles + XGBoost models.
