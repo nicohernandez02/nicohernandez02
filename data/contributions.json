@@ -1,12 +1,12 @@
 {
  "username": "nicohernandez02",
- "fetched_at": "2026-09-10T07:45:21+00:00",
+ "fetched_at": "2026-09-11T07:40:12+00:00",
  "total": 35,
  "best_day": {
   "date": "2026-08-21",
   "count": 11
  },
- "current_streak": 2,
+ "current_streak": 0,
  "longest_streak": 2,
  "monthly": {
   "2025-09": 0,
@@ -1866,6 +1866,11 @@
   },
   {
    "date": "2026-09-10",
+   "count": 0,
+   "level": 0
+  },
+  {
+   "date": "2026-09-11",
    "count": 0,
    "level": 0
   }
